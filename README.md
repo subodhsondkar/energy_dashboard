@@ -5,7 +5,7 @@
 1. Clone the repository, using the following command:
   `git clone https://github.com/subodhsondkar/energy_dashboard`
 1. Source the environent, using the following command:
-  `source env/bin/activate`
+  `source env/bin/activate` (alternatively, a new environment can be created via the `requirements.txt` file.)
 
 ## Run
 
